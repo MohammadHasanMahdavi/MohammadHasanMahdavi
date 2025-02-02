@@ -6,3 +6,5 @@ But my curiosity doesn’t stop there—I’m on a mission to master web applica
 I thrive on challenges, love solving complex problems, and always push myself to explore new technologies. Whether it's crafting a seamless mobile experience or uncovering vulnerabilities in a web app, I'm all about pushing boundaries.
 
 Break. Learn. Build. Repeat. 🔥
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
