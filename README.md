@@ -1,3 +1,4 @@
+## About Me
 👋 Hey there! I'm a passionate Android developer with over two years of professional experience at Saaland and around three years of diving deep into Kotlin and Android development.
 
 But my curiosity doesn’t stop there—I’m on a mission to master web application security and break into the world of ethical hacking. Lately, I’ve been sharpening my skills in Go and JavaScript to better understand the security landscape and build (or break!) more resilient systems.
